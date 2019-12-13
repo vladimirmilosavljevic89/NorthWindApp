@@ -1,0 +1,5 @@
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\bin\Debug\Model1.dll
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\bin\Debug\Model1.pdb
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\obj\Debug\Model1.csprojResolveAssemblyReference.cache
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\obj\Debug\Model1.dll
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\obj\Debug\Model1.pdb

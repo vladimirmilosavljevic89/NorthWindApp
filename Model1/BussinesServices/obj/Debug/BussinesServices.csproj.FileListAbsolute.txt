@@ -1,0 +1,11 @@
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\bin\Debug\BussinesServices.dll
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\bin\Debug\BussinesServices.pdb
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\bin\Debug\DAL1.dll
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\bin\Debug\InfrastructuredService.dll
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\bin\Debug\Model1.dll
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\bin\Debug\DAL1.pdb
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\bin\Debug\InfrastructuredService.pdb
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\bin\Debug\Model1.pdb
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\obj\Debug\BussinesServices.csprojResolveAssemblyReference.cache
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\obj\Debug\BussinesServices.dll
+C:\Users\vlada.milosavljevic\Documents\Visual Studio 2015\Projects\Model1\BussinesServices\obj\Debug\BussinesServices.pdb

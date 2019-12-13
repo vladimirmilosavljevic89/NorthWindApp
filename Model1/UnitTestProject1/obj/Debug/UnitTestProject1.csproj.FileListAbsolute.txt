@@ -1,0 +1,9 @@
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\bin\Debug\DAL1.dll
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\bin\Debug\Model1.dll
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\bin\Debug\DAL1.pdb
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\bin\Debug\Model1.pdb
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\vlada.milosavljevic\documents\visual studio 2015\Projects\Model1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
